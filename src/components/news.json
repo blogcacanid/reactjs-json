@@ -1,0 +1,45 @@
+  [
+    {
+      "NewsItemId": "1",
+      "HeadLine": "Belajar ReactJS",
+      "DateLine": "Posted by BY CACAN CO,- JANUARY 13, 20198",
+      "WebURL": "https://blog.cacan.id/belajar-react-js/",
+      "Caption": "Belajar ReactJS",
+      "Image": {
+        "Photo": "https://i.imgur.com/8W0Ql5S.jpg",
+        "Thumb": "https://i.imgur.com/8W0Ql5S.jpg",
+        "PhotoCaption": ""
+      },
+      "Keywords": "",
+      "Story": "React JS adalah library Javascript yang dikembangkan oleh facebook. ReactJS dapat kita gunakan untuk membangun antarmuka pengguna atau User Interface, yang meng-Handle layer view atau tampilan untuk web ataupun aplikasi mobile."
+    },
+    {
+      "NewsItemId": "2",
+      "HeadLine": "Membuat Single Page Application Dengan React JS",
+      "DateLine": "Posted by BY CACAN CO,- JANUARY 19, 2019",
+      "WebURL": "https://blog.cacan.id/membuat-single-page-application-dengan-react-js/",
+      "Caption": "Membuat Single Page Application Dengan React JS",
+      "Image": {
+        "Photo": "https://i.imgur.com/c6yWLzX.jpg",
+        "Thumb": "https://i.imgur.com/c6yWLzX.jpg",
+        "PhotoCaption": ""
+      },
+      "Keywords": "",
+      "Story": "Single Page Application (SPA) merupakan aplikasi yang bekerja di dalam browser yang tidak membutuhkan reload page saat digunakan. Dengan kata lain, pengguna  atau user tidak akan berpindah halaman dengan melakukan request kepada server setiap kali terjadi interaksi pada aplikasi. Yang membedakan SPA dengan non-SPA adalah single page application hanya akan melakukan load terhadap satu halaman dari server kemudian mekanisme routing yang biasanya di-handle oleh server kini dibebankan pada client. Akibatnya, website yang menggunakan SPA memiliki performa yang lebih cepat tanpa harus load halaman secara terus menerus."
+    },
+    {
+      "NewsItemId": "3",
+      "HeadLine": "Integrasi AdminLTE Dengan React JS",
+      "DateLine": "Posted by BY CACAN CO,- JANUARY 26, 2019",
+      "WebURL": "https://blog.cacan.id/integrasi-adminlte-dengan-react-js/",
+      "Caption": "Integrasi AdminLTE Dengan React JS",
+      "Image": {
+        "Photo": "https://i.imgur.com/WNKZ8kU.jpg",
+        "Thumb": "https://i.imgur.com/WNKZ8kU.jpg",
+        "PhotoCaption": ""
+      },
+      "Keywords": "",
+      "Story": "React JS adalah library Javascript yang dikembangkan oleh facebook. ReactJS dapat kita gunakan untuk membangun antarmuka pengguna atau User Interface, yang meng-Handle layer view atau tampilan untuk web ataupun aplikasi mobile."
+    }
+  
+  ]
